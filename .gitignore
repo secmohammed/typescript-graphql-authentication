@@ -1,4 +1,8 @@
 /server/node_modules/
+/client/node_modules/
+/client/generated/
+/client/.next/
+
 /server/images
 logs
 *.log

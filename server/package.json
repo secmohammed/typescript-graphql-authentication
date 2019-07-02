@@ -9,6 +9,7 @@
     "@types/uuid": "^3.4.4",
     "apollo-server-express": "^2.6.7",
     "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
     "class-validator": "^0.9.1",
     "connect-redis": "^3.4.1",
     "cors": "^2.8.5",
